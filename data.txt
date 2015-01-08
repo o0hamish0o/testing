@@ -1,0 +1,6 @@
+{ 
+"state": "Pending QA",  
+"target_url": "https://example.com/build/status",  
+"description": "The build succeeded!",  
+"context": "pending QA" 
+}
